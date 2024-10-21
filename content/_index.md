@@ -33,7 +33,7 @@ Have your team focus on the right practices that work, not just following the us
 
 I’ve got bad news... __you’ve been lied to.__
 
-You’ve been led to believe that the software development practices that your team is following is the best way to get your project launched on-time and within the allotted budget. 
+You’ve been led to believe that completing the scrum ceremonies and using sophisticated project management tools is going to get your project launched on-time and within the allotted budget.
 
 But that’s simply not true.
 
