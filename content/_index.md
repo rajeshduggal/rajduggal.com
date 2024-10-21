@@ -37,7 +37,7 @@ You’ve been led to believe that completing the scrum ceremonies and using soph
 
 But that’s simply not true.
 
-__Launching on-time and within budget requires practices that recognize that quality is a variable, and are optimized for  effectively embracing change throughout the project, instead of optimizing for efficiency.__
+__Launching on-time and within budget requires practices that recognize that quality is a variable, and are optimized for  effectively embracing change throughout the project, instead of optimizing purely for efficiency.__
 
 Stakeholders and customers don’t want to hear excuses.
 
