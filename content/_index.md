@@ -69,7 +69,7 @@ Whether you're a Scrum Master, developer, or product owner, these articles will 
 ### 3/ Coaching Call
 Are you facing a specific challenge and need expert advice? Book a coaching call now. I will provide tailored advice, troubleshoot specific challenges, or offer quick insights that directly address your current needs. Enabling your team to gain clarity and actionable solutions on-demand.
 
-<span class="button profile" style="text-transform: ppercase;">__[Book a Coaching Call](https://clarity.fm/rajeshduggal/expertise/agile-software-development-coach)__</span>
+<span class="button profile" style="text-transform: ppercase;">__[Book a Coaching Call](https://clarity.fm/rajduggal/expertise/agile-software-development-coach)__</span>
 
 ### 4/ Team Coaching
 
