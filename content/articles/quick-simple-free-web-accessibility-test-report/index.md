@@ -2,6 +2,8 @@
 title = "How to do a Quick, Simple, and Free, Web Accessibility Test Report"
 description = "You don't need to download or install anything. Your chrome browser already has a built in free web Accessibility analysis and reporting tool."
 ShowPostNavLinks = false
+[build]
+    list = 'never'
 +++
 
 Chrome has a built in tool called [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) which can audit the web page you're visiting in both desktop browser and mobile browser modes.
