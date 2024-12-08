@@ -25,7 +25,7 @@ Chrome has a built in tool called [Lighthouse](https://developer.chrome.com/docs
 * Click the icon that contains two arrows pointing to the right.
 ![lighthouse](lighthouse.png)
 
-* You will know that you on the "Lighthouse" tab, because it will be displayed in blue font with an underline. Like this...
+* You will know you're in the right place, when the Lighthouse tab is underlined and in a blue font colour. Like this...
 ![lighthouse-tab](lighthouse-tab.png)
 
 ## Step 3: Configure the test report
