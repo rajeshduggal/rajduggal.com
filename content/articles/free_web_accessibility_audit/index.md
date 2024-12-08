@@ -43,7 +43,7 @@ Check your audit score. Did it score 100%?
 
 Consider how you can make your web page more accessible!
 
-There's plenty of resources online. And you can also [reach out to a web accessibility export like me!](https://clarity.fm/rajduggal/precall/free)
+There's plenty of resources online. And you can also [reach out to a web accessibility expert like me!](https://clarity.fm/rajduggal/precall/free)
 
 ![result](result.png)
 
