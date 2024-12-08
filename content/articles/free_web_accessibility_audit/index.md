@@ -1,6 +1,6 @@
 +++
 title = "How to Run a Quick, Simple, Free, Web Accessibility Test Audit"
-description = "You don't need to download or install special software. Your Chrome browser already has a built in free web Accessibility analysis and audit and reporting tool."
+description = "You don't need to download or install any special software. Your Chrome browser already has a web accessibility auditing tool built-in. Ready for you to use!"
 ShowPostNavLinks = false
 author = ["Raj Duggal","Abi Vanniyasingam"]
 hideMeta = false
@@ -57,6 +57,6 @@ It's still necessary to perform [__manual accessibility testing__](https://web.d
 
 Fortunately, there's plenty of resources online.
 
-And, if you still need help you can [reach out to a web accessibility expert like me!](https://clarity.fm/rajduggal/precall/free)
+And, if you still need help you can __[reach out to a web accessibility expert like me!](https://clarity.fm/rajduggal/precall/free)__
 
 
