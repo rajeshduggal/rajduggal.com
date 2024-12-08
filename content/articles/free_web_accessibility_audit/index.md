@@ -39,13 +39,24 @@ Chrome has a built in tool called [Lighthouse](https://developer.chrome.com/docs
 
 ## Step 4: Enjoy the report!
 
-Check your audit score. Did it score 100%?
-
-Consider how you can make your web page more accessible!
-
-There's plenty of resources online. And you can also [reach out to a web accessibility expert like me!](https://clarity.fm/rajduggal/precall/free)
+Check your audit score...
 
 ![result](result.png)
 
-You can get more [information about how this report is generated and how the score is determined](https://developer.chrome.com/docs/lighthouse/accessibility/scoring).
+Did it score 100%?
+
+Yipee!
+
+Wait!
+
+Don't get too excited!
+
+This score ___only___ measures a [set of __automated__ accessibility audit tests](https://developer.chrome.com/docs/lighthouse/accessibility/scoring).
+
+It's still necessary to perform [__manual accessibility testing__](https://web.dev/learn/accessibility/test-manual), which  uses keyboard, visual, and cognitive tests to find issues that these automated tools cannot.
+
+Fortunately, there's plenty of resources online.
+
+And, if you still need help you can [reach out to a web accessibility expert like me!](https://clarity.fm/rajduggal/precall/free)
+
 
