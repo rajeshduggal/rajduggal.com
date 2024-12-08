@@ -57,25 +57,25 @@ Every weekday, I send a short, useful tidbit of information, inspiration, or ins
 to help folks like you find practical solutions to common challenges and improve your team's performance.
 You’ll get a ton of value delivered in small bite-sized chunks.
 
-<span class="button profile" style="text-transform: ppercase;">__[AgileTechies.com](https://AgileTechies.com)__</span>
+<span class="button profile" style="text-transform:uppercase;">__[AgileTechies.com](https://AgileTechies.com)__</span>
 
 ### 2/ Agile Missing Manual
 Gain valuable insights into the often overlooked or misunderstood concepts of Agile software development. These articles dive deeper into Agile practices and concepts, helping you identify common pitfalls and misconceptions that can hinder your team's success.
 
 Whether you're a Scrum Master, developer, or product owner, these articles will equip you with the knowledge to elevate your team's performance and unlock the full potential of the Agile approach.
 
-<span class="button profile" style="text-transform: ppercase;">__[AgileMissingManual.com](https://AgileMissingManual.com)__</span>
+<span class="button profile" style="text-transform:uppercase;">__[AgileMissingManual.com](https://AgileMissingManual.com)__</span>
 
 ### 3/ Coaching Call
 Are you facing a specific challenge and need expert advice? Book a coaching call now. I will provide tailored advice, troubleshoot specific challenges, or offer quick insights that directly address your current needs. Enabling your team to gain clarity and actionable solutions on-demand.
 
-<span class="button profile" style="text-transform: ppercase;">__[Book a Coaching Call](https://clarity.fm/rajduggal/expertise/agile-software-development-coach)__</span>
+<span class="button profile" style="text-transform:uppercase;">__[Book a Coaching Call](https://clarity.fm/rajduggal/precall/free)__</span>
 
 ### 4/ Team Coaching
 
 Hire me on a monthly retainer to provide your team with ongoing, hands-on guidance to continuously refine and enhance your agile practices. This means tailored support as challenges arise, proactive adjustments to keep your team aligned with business goals, and a steady focus on improving efficiency, collaboration, and delivery outcomes. With me on retainer, your team gains a trusted advisor committed to their success, enabling consistent growth and performance improvements over time.
 
-<span class="button profile" style="text-transform: ppercase;">__[rajesh@duggalmail.com](mailto:rajesh@duggalmail.com)__</span>
+<span class="button profile" style="text-transform:uppercase;">__[rajesh@duggalmail.com](mailto:rajesh@duggalmail.com)__</span>
 
 {{< profile_image >}}
 
