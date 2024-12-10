@@ -1,6 +1,7 @@
 +++
 title = "But I'm Not a Software Developer"
 description = "\"But I'm Not a Software Developer\" - A Mindset Shift for Team Success"
+summary = "\"But I'm Not a Software Developer\" - A Mindset Shift for Team Success"
 +++
 
 As a software development coach, I frequently hear team members say, "But, I'm not a Software Developer," whenever I ask them to engage in technical tasks. While this may seem like a reasonable defense, it often reflects a limiting mindset. It’s not that they lack the capability, but rather that the term "Software Developer" has become synonymous with "Computer Programmer" in their minds—creating a division where none should exist.

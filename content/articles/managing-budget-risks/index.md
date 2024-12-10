@@ -1,6 +1,7 @@
 ---
 title: "Managing Budget Risks"
 summary: "Leveraging Agile to Mitigate Budget Overruns and Maximize Business Value"
+description: "Leveraging Agile to Mitigate Budget Overruns and Maximize Business Value"
 ---
 
 For many software development projects, it’s not uncommon for teams to realize midway through that they’re going to miss the expected launch date, and that costs are likely to exceed the original budget. This situation creates a ripple effect of risks, frustrations, and financial challenges. In the world of software development, estimating timelines and budgets accurately is an ongoing struggle, but the Agile approach offers a way to mitigate budget risks while delivering valuable results.
