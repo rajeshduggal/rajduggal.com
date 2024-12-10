@@ -3,10 +3,6 @@ title = "How to Run a Quick, Simple and Free, Web Accessibility Test Audit"
 description = "You don't need to download or install any special software. Both Chrome and the Edge browsers have a built-in web accessibility auditing tool, ready for you to use!"
 summary = "You don't need to download or install any special software. Both Chrome and the Edge browsers have a built-in web accessibility auditing tool, ready for you to use!"
 ShowPostNavLinks = false
-[build]
-  list = 'never'
-[sitemap]
-  disable = false
 +++
 
 Chrome and Edge have a built in tool called [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) which can audit the web page you're visiting in both desktop browser and mobile browser modes.
