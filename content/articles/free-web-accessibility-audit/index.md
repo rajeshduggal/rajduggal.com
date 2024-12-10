@@ -1,9 +1,7 @@
 +++
-title = "How to Run a Quick, Simple, Free, Web Accessibility Test Audit"
-description = "You don't need to download or install any special software. Your Chrome browser already has a web accessibility auditing tool built-in. Ready for you to use!"
+title = "How to Run a Quick, Simple and Free, Web Accessibility Test Audit"
+description = "You don't need to download or install any special software. Your Chrome browser already has a web accessibility auditing tool built-in, ready for you to use!"
 ShowPostNavLinks = false
-author = ["Raj Duggal","Abi Vanniyasingam"]
-hideMeta = false
 [build]
     list = 'never'
 +++
@@ -13,8 +11,8 @@ Chrome has a built in tool called [Lighthouse](https://developer.chrome.com/docs
 
 ## Step 1: Open the built in [Chrome Developer Tools](https://developer.chrome.com/docs/devtools)
 
-* Open chrome
-* In the top right corner, click the icon that contains a vertical column of three dots.
+* Open Chrome
+* In the top-right corner, click the icon that contains a vertical column of three dots.
 * Click "__More tools__".
 * Click "__Developer Tools__".
 
@@ -22,7 +20,7 @@ Chrome has a built in tool called [Lighthouse](https://developer.chrome.com/docs
 
 ## Step 2: Open the Lighthouse tab 
 
-* Click the icon that contains two arrows pointing to the right.
+* Click the icon with two arrows pointing towards the right.
 ![lighthouse](lighthouse.png)
 
 * You will know you're in the right place, when the Lighthouse tab is underlined and in a blue font colour. Like this...
@@ -30,10 +28,9 @@ Chrome has a built in tool called [Lighthouse](https://developer.chrome.com/docs
 
 ## Step 3: Configure the test report
 
-* Check the "__Accessibility__" checkbox.
-* Uncheck the the other checkboxes.
+* Under the _Category_ section, only select the "__Accessibility__" checkbox and uncheck the others.
 * Choose to generate the report for either how the web page will be displayed in "__Desktop__" computer mode, or "__Mobile__" phone mode.
-* Click the "__Analyze page load__" button, and it will start analyzing the web page and generate a report.
+* Click the "__Analyze page load__" button to generate your report.
 
 ![report](report.png)
 
