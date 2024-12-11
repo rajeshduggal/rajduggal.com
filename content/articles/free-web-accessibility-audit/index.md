@@ -5,13 +5,13 @@ summary = "You don't need to download or install any special software. Both Chro
 ShowPostNavLinks = false
 +++
 
-Chrome and Edge have a built in tool called [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) which can audit the web page you're visiting in both desktop browser and mobile browser modes.
+Chrome and Edge have a built-in tool called [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) which can audit the web page you're visiting in both desktop browser and mobile browser modes.
 
-There's an [Lighthouse add-on available for Firefox](https://addons.mozilla.org/en-US/firefox/addon/google-lighthouse/).
+There's a [Lighthouse add-on available for Firefox](https://addons.mozilla.org/en-US/firefox/addon/google-lighthouse/).
 
 Sorry, Safari browser users will need to find another tool for this job.
 
-## Step 1: Open the built in Developer Tools
+## Step 1: Open the built-in Developer Tools
 
 * Open your Google Chrome or Microsoft Edge browser
 * Visit the web page that you want to analyze.
@@ -24,7 +24,7 @@ Sorry, Safari browser users will need to find another tool for this job.
 ## Step 2: Open the Lighthouse tab 
 
 If you're using Edge look for the "Lighthouse" tool in your activity bar. It will either say "Lighthouse" or it might be displayed as a lighthouse icon.
-![Add Lighthouse tool to the Edge Developer tools Activity Bar](edge-lighthouse-tab.png)
+![Lighthouse icon in Edge Developer tools Activity Bar](edge-lighthouse-tab.png)
 
 If it's missing, you will need to add it to your Activity Bar by clicking the plus icon and then click "Lighthouse".
 ![Add Lighthouse tool to the Edge Developer tools Activity Bar](edge-add-lighthouse-to-activity-bar.png)
