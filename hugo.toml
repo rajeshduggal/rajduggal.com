@@ -1,5 +1,4 @@
 baseURL = 'https://RajDuggal.com/'
-languageCode = 'en-us'
 title = 'Raj Duggal'
 
 googleAnalytics = "G-9P7QF8G9XW"
@@ -22,7 +21,8 @@ mainsections = [ "posts", "papermod" ]
 disableXML = true
 
 [languages.en]
-languageName = "English"
+locale = 'en-US'
+label = "English"
 weight = 1
 
   [languages.en.taxonomies]
