@@ -77,6 +77,11 @@ hideMeta = true
   [params.assets]
   disableHLJS = true
 
+  [[params.socialIcons]]
+  name = "zcal"
+  title ="Schedule a meeting with Raj"
+  url ="https://zcal.co/rajduggal"
+
 [markup.goldmark.renderer]
 unsafe = true
 
